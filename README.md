@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://gajdantweb.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://zeelpatel02.github.io)**
 
 - 📫 How to reach me **pzeel1330@gmail.com**
 
