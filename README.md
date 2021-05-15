@@ -36,7 +36,7 @@
     <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/> </a>
     <a href="https://www.anaconda.com/" target="_blank"> <img src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> </a>
     <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> </a>
-    <a href="https://www.linux.org/pages/download/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/linux.png"/> </a>
+    <a href="https://www.linux.org/pages/download/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a>
 </p>    
 
 ## 💻 Connect with me:
