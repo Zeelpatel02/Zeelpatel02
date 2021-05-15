@@ -45,5 +45,5 @@
 ## Badge
 
 <p align="left">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a29ddf72-770c-4e0c-b29e-810f246c57ef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/a29ddf72-770c-4e0c-b29e-810f246c57ef/public_url" title="Data Science Orientation"><img src="https://images.credly.com/size/220x220/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" alt="Data Science Orientation"></img></a>
 </p>
