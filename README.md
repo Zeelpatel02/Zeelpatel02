@@ -41,3 +41,9 @@
 <a href = "https://twitter.com/zeelpatel_it"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/_zeel.patel/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
+
+## Badge
+
+<p align="left">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a29ddf72-770c-4e0c-b29e-810f246c57ef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</p>
