@@ -73,6 +73,3 @@
 <a href="https://twitter.com/zeelpatel_it" title="Reach out on Twitter" target="_blank">
   <img src="img/twitter.svg" width="20" height="20" align="right"/>
 </a>
-<a href="https://instagram.com/_zeel.patel" title="Reach out on Instagram" target="_blank">
-  <img src="img/twitter.svg" width="20" height="20" align="right"/>
-</a>
