@@ -1,3 +1,5 @@
+<a title="ZeelPatel"><img align="center" src="img/1.png" /></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Zeel</h1>
 <h3 align="center">I'm a passionate Python Developer from India.</h3>
 
@@ -57,3 +59,20 @@
 <a href="https://www.credly.com/badges/c611b0c6-25f5-42e0-89e1-b4e07f9ab48d/public_url" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity"></img></a>
 <a href="https://www.credly.com/badges/340458c5-1f3c-44db-b12b-e04a1ed09df5/public_url" title="Cyber Security Foundation Professional Certificate - CSFPC™"><img src="https://images.credly.com/size/110x110/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" alt="Cyber Security Foundation Professional Certificate - CSFPC™"></img></a>
 </p>
+
+
+<hr height="1" />
+
+
+<a href="https://zeelpatel02.github.io" title="Check out my website" target="_blank">
+  <img src="img/website.svg" width="20" height="20" align="right"/>
+</a>
+<a href="https://www.linkedin.com/in/zeelpatel210/" title="Connect on LinkedIn" target="_blank">
+  <img src="img/linkedin.svg" width="20" height="20" align="right"/>
+</a>
+<a href="https://twitter.com/zeelpatel_it" title="Reach out on Twitter" target="_blank">
+  <img src="img/twitter.svg" width="20" height="20" align="right"/>
+</a>
+<a href="https://instagram.com/_zeel.patel" title="Reach out on Instagram" target="_blank">
+  <img src="img/twitter.svg" width="20" height="20" align="right"/>
+</a>
