@@ -59,15 +59,3 @@
 </p>
 
 
-<hr height="1" />
-
-
-<a href="https://zeelpatel02.github.io" title="Check out my website" target="_blank">
-  <img src="img/website.svg" width="20" height="20" align="right"/>
-</a>
-<a href="https://www.linkedin.com/in/zeelpatel210/" title="Connect on LinkedIn" target="_blank">
-  <img src="img/linkedin.svg" width="20" height="20" align="right"/>
-</a>
-<a href="https://twitter.com/zeelpatel_it" title="Reach out on Twitter" target="_blank">
-  <img src="img/twitter.svg" width="20" height="20" align="right"/>
-</a>
