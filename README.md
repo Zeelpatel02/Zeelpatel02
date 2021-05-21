@@ -49,6 +49,7 @@
 ## 🏅 Badge
 
 <p align="left">
+<a href="https://www.credly.com/badges/6b332207-415a-47b0-b334-f44485601c22/public_url" title="Introduction to Cybersecurity Tools & Cyber Attacks"><img src="https://images.credly.com/size/110x110/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" alt="Introduction to Cybersecurity Tools & Cyber Attacks"></img></a>
 <a href="https://www.credly.com/badges/a29ddf72-770c-4e0c-b29e-810f246c57ef/public_url" title="Data Science Orientation"><img src="https://images.credly.com/size/110x110/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png" alt="Data Science Orientation"></img></a>
 <a href="https://www.credly.com/badges/ddea5675-6ef5-4eb7-8ee4-1b530b7b6705/public_url" title="Python for Data Science"><img src="https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png" alt="Python for Data Science"></img></a>
 <a href="https://www.credly.com/badges/12a23e3d-3fa9-4941-8d81-9b3bfebfca34/public_url" title="Machine Learning with Python"><img src="https://images.credly.com/size/110x110/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png" alt="Machine Learning with Python"></img></a>
@@ -61,6 +62,7 @@
 <a href="https://www.credly.com/badges/ec5dc986-5121-4223-9572-b16762b58486/public_url" title="Data Analysis Using Python"><img src="https://images.credly.com/size/110x110/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png" alt="Data Analysis Using Python"></img></a>
 <a href="https://www.credly.com/badges/929faef4-378d-4f03-97bd-a0322391118d/public_url" title="Cloud Native Security Conference - Data Security"><img src="https://images.credly.com/size/110x110/images/640641c6-0917-430b-b319-88d5e0eeb8eb/Cloud_Native_Sec_Conf_-_Data_Security.png" alt="Cloud Native Security Conference - Data Security"></img></a>
 <a href="https://www.credly.com/badges/7701d8e1-8e37-4ff5-9be1-e33dd1fff361/public_url" title="Cloud Native Security Conference - App Security"><img src="https://images.credly.com/size/110x110/images/d0d5241d-ffd7-432d-963d-fc5a0dcdc51a/Cloud_Native_Sec_Conf_-_App_Security.png" alt="Cloud Native Security Conference - App Security"></img></a>
+<a href="https://www.credly.com/badges/57979fc2-7aed-4189-b985-78925f082728/public_url" title="Cloud Native Security Conference - DevSecOps"><img src="https://images.credly.com/size/110x110/images/01d39c6e-56b8-41d2-b994-fb9d4587240f/Cloud_Native_Sec_Conf_-_DevSecOps_Security.png" alt="Cloud Native Security Conference - DevSecOps"></img></a>
 </p>
 
 
