@@ -49,6 +49,7 @@
 ## 🏅 Badge
 
 <p align="left">
+<a href="https://www.credly.com/badges/d0a7d158-a9d4-4246-a609-5e876f3afdb3/public_url"><img src="https://images.credly.com/size/110x110/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png" alt="Penetration Testing, Incident Response and Forensics"></img></a>
 <a href="https://www.credly.com/badges/0a0787f5-57a3-4c11-b561-de59f223d67f/public_url"><img src="https://images.credly.com/size/110x110/images/414c8a6c-a5b2-453a-86f9-cbfab00037cd/Cybersecurity_Fundamentals.png" alt="Cybersecurity Fundamentals"></img></a>
 <a href="https://www.credly.com/badges/6b332207-415a-47b0-b334-f44485601c22/public_url" title="Introduction to Cybersecurity Tools & Cyber Attacks"><img src="https://images.credly.com/size/110x110/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png" alt="Introduction to Cybersecurity Tools & Cyber Attacks"></img></a>
 <a href="https://www.credly.com/badges/340458c5-1f3c-44db-b12b-e04a1ed09df5/public_url" title="Cyber Security Foundation Professional Certificate - CSFPC™"><img src="https://images.credly.com/size/110x110/images/8a0fb550-4d51-41d0-be50-6c1f54526539/Cybersecurity-Foundation-Professional-Certificate-CSFPC.png" alt="Cyber Security Foundation Professional Certificate - CSFPC™"></img></a>
