@@ -65,6 +65,8 @@
 <a href="https://www.credly.com/badges/929faef4-378d-4f03-97bd-a0322391118d/public_url" title="Cloud Native Security Conference - Data Security"><img src="https://images.credly.com/size/110x110/images/640641c6-0917-430b-b319-88d5e0eeb8eb/Cloud_Native_Sec_Conf_-_Data_Security.png" alt="Cloud Native Security Conference - Data Security"></img></a>
 <a href="https://www.credly.com/badges/7701d8e1-8e37-4ff5-9be1-e33dd1fff361/public_url" title="Cloud Native Security Conference - App Security"><img src="https://images.credly.com/size/110x110/images/d0d5241d-ffd7-432d-963d-fc5a0dcdc51a/Cloud_Native_Sec_Conf_-_App_Security.png" alt="Cloud Native Security Conference - App Security"></img></a>
 <a href="https://www.credly.com/badges/57979fc2-7aed-4189-b985-78925f082728/public_url" title="Cloud Native Security Conference - DevSecOps"><img src="https://images.credly.com/size/110x110/images/01d39c6e-56b8-41d2-b994-fb9d4587240f/Cloud_Native_Sec_Conf_-_DevSecOps_Security.png" alt="Cloud Native Security Conference - DevSecOps"></img></a>
+<a href="https://www.credly.com/badges/40d468c6-c7e9-4c8f-b240-5d9cc0bd8bae/public_url" title="Lifelong Learning"><img src="https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="Lifelong Learning"></img></a>
+<a href="https://www.credly.com/badges/ec7ea303-3bdd-4e98-91d5-13698483600a/public_url" title="Remote Work and Virtual Collaboration Professional Certificate - RWVCPC"><img src="https://images.credly.com/size/110x110/images/2a7b1448-f309-4ada-bdea-64cb5dbcc26a/Remote-Worker-and-Virtual-Collaborator-Professional-Certificate-RWVCPC.png" alt="Remote Work and Virtual Collaboration Professional Certificate - RWVCPC"></img></a>
 </p>
 
 
