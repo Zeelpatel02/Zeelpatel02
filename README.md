@@ -68,6 +68,7 @@
 <a href="https://www.credly.com/badges/57979fc2-7aed-4189-b985-78925f082728/public_url" title="Cloud Native Security Conference - DevSecOps"><img src="https://images.credly.com/size/110x110/images/01d39c6e-56b8-41d2-b994-fb9d4587240f/Cloud_Native_Sec_Conf_-_DevSecOps_Security.png" alt="Cloud Native Security Conference - DevSecOps"></img></a>
 <a href="https://www.credly.com/badges/40d468c6-c7e9-4c8f-b240-5d9cc0bd8bae/public_url" title="Lifelong Learning"><img src="https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="Lifelong Learning"></img></a>
 <a href="https://www.credly.com/badges/ec7ea303-3bdd-4e98-91d5-13698483600a/public_url" title="Remote Work and Virtual Collaboration Professional Certificate - RWVCPC"><img src="https://images.credly.com/size/110x110/images/2a7b1448-f309-4ada-bdea-64cb5dbcc26a/Remote-Worker-and-Virtual-Collaborator-Professional-Certificate-RWVCPC.png" alt="Remote Work and Virtual Collaboration Professional Certificate - RWVCPC"></img></a>
+<a href="https://www.credly.com/badges/d7d6100c-ee28-4910-8e01-171ec904d263/public_url" title="LFD103: A Beginner's Guide to Linux Kernel Development"><img src="https://images.credly.com/size/110x110/images/43062c7b-bef9-48af-8a69-4c2a47b311ba/LF_logobadge.png" alt="LFD103: A Beginner's Guide to Linux Kernel Development"></img></a>
 </p>
 
 
