@@ -49,6 +49,7 @@
 ## 🏅 Badge
 
 <p align="left">
+<a href="https://www.credly.com/badges/f8df698e-e5a4-454c-8ebb-98b38539f009/public_url"><img src="https://images.credly.com/size/110x110/images/2d8a1c02-779b-4b58-9e11-701dcbeaf380/Cyber_roles__process_Op_Sys_Sec.png" alt="Cybersecurity Roles, Processes & Operating System Security"></img></a>
 <a href="https://www.credly.com/badges/fbf31d8a-fa13-421d-bef9-1b4c4616d24e/public_url"><img src="https://images.credly.com/size/110x110/images/16bb3b0a-9b25-4165-8d70-3b4f88b17db4/Net_Security_DB_Vulnerable.png" alt="Network Security & Database Vulnerabilities"></img></a>
 <a href="https://www.credly.com/badges/d0a7d158-a9d4-4246-a609-5e876f3afdb3/public_url"><img src="https://images.credly.com/size/110x110/images/4a42b9d2-df71-4d99-9bac-6069634b988a/Penetration_Testing_-_Inc_Response_Forensics.png" alt="Penetration Testing, Incident Response and Forensics"></img></a>
 <a href="https://www.credly.com/badges/0a0787f5-57a3-4c11-b561-de59f223d67f/public_url"><img src="https://images.credly.com/size/110x110/images/414c8a6c-a5b2-453a-86f9-cbfab00037cd/Cybersecurity_Fundamentals.png" alt="Cybersecurity Fundamentals"></img></a>
