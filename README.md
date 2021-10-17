@@ -38,7 +38,6 @@
     <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> </a>
     <a href="https://www.linux.org/pages/download/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux.png"/> </a>
     <a href="https://www.kali.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kali-linux.png"/> </a>
-    <a href="https://desktop.github.com/" target="_blank"><img src="https://desktop.github.com/images/desktop-icon.svg"/> </a>
     
 </p>    
 
