@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://zeelpatel.netlify.app)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://zeelpatel.vercel.app)**
 
 - 📫 How to reach me **pzeel1330@gmail.com**
 
@@ -44,9 +44,9 @@
 
 ## 💻 Connect with me:
 <p align="left">
-<a href = "https://www.linkedin.com/in/zeelpatel210/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/zeelpatel_it"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_zeel.patel/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/zeel2patel/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/zeel2patel"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/zeel.webdev/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## 🏅 Badge
