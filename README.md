@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Reactjs project
 
-- 🌱 I’m currently learning **Cyber security(kali linux).**
+- 🌱 I’m currently learning **Web Development(Mac Os).**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
