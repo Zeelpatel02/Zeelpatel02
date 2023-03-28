@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Zeel <img src="https://raw.githubusercontent.com/Zeelpatel02/Zeelpatel02/main/icons8-super-mario-480.png" width="30px"></h1>
-<h3 align="center">I'm a passionate Python Developer from India.</h3>
+<h3 align="center">I'm a passionate Web Developer in Canada.</h3>
 
 
 ## 🙋‍♂️ About Me
