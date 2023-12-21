@@ -4,13 +4,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Reactjs project
+- 🔭 I’m currently working on **[Tesla](https://zeeltesla.webflow.io/)**
 
 - 🌱 I’m currently learning **Web Development(Mac Os).**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 my current running projects is available at **[Tesla](https://zeeltesla.webflow.io/)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://zeelpatel.vercel.app)**
 
